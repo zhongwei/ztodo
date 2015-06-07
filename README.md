@@ -48,7 +48,7 @@
 - [gcc五分钟系列](https://github.com/lexdene/gcc_five_minute)
 - [Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown/)
 - [Daring Fireball: Markdown Web Dingus](http://daringfireball.net/projects/markdown/dingus)
--[MarkDown标记语言说明文档——如何在github上写出优秀的readme](http://blog.sina.com.cn/s/blog_4a2100f801016v05.html)
+- [MarkDown标记语言说明文档——如何在github上写出优秀的readme](http://blog.sina.com.cn/s/blog_4a2100f801016v05.html)
 
 
 
