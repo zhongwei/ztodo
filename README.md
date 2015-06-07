@@ -18,7 +18,7 @@
 ## C 
 
 - [Understanding C by learning assembly ](https://www.recurse.com/blog/7-understanding-c-by-learning-assembly)
-- [Learning C with gdb](https://www.recurse.com/blog/5-learning-c-with-gdb)
+- ~~[Learning C with gdb](https://www.recurse.com/blog/5-learning-c-with-gdb)~~
 
 ## Rust 
 
