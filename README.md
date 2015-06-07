@@ -45,9 +45,9 @@
 
 ## Miscellaneous
 
--[gcc五分钟系列](https://github.com/lexdene/gcc_five_minute)
--[Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown/)
--[Daring Fireball: Markdown Web Dingus](http://daringfireball.net/projects/markdown/dingus)
+- [gcc五分钟系列](https://github.com/lexdene/gcc_five_minute)
+- [Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown/)
+- [Daring Fireball: Markdown Web Dingus](http://daringfireball.net/projects/markdown/dingus)
 
 
 
