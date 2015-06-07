@@ -5,15 +5,15 @@
 
 ## TOC
 
-- [C](#C)
-- [Rust](#Rust)
-- [Go](#Go)
-- [JavaScript](#JavaScript)
-- [Assembly](#Assembly)
-- [Python](#Python)
-- [Linux Programming](#Linux Programming)
-- [Linux System Administration](#Linux  System Administration)
-- [Miscellaneous](#Miscellaneous)
+- [C](#c)
+- [Rust](#rust)
+- [Go](#go)
+- [JavaScript](#javaScript)
+- [Assembly](#assembly)
+- [Python](#python)
+- [Linux Programming](#linux-programming)
+- [Linux System Administration](#linux-system-administration)
+- [Miscellaneous](#miscellaneous)
 
 ## C 
 
