@@ -11,6 +11,7 @@
 - [JavaScript](#javaScript)
 - [Assembly](#assembly)
 - [Python](#python)
+- [Swift](#swift)
 - [Linux Programming](#linux-programming)
 - [Linux System Administration](#linux-system-administration)
 - [Miscellaneous](#miscellaneous)
@@ -35,6 +36,11 @@
 - [Learning assembly for linux-x64](https://github.com/0xAX/asm)
 
 ## Python
+
+## Swift
+
+- [中文版 Apple 官方 Swift 教程《The Swift Programming Language》](http://numbbbbb.github.io/the-swift-programming-language-in-chinese/)
+
 
 ## Linux Programming
 
