@@ -52,6 +52,7 @@
 - [List of Free Programming Books](http://resrc.io/list/10/list-of-free-programming-books/)
 - [Frontend Development Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [GitHub Cheat Sheet-A list of cool features of Git and GitHub.](https://github.com/tiimgreen/github-cheat-sheet)
+- [A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev](https://github.com/ripienaar/free-for-dev)
 
 
 
