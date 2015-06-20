@@ -33,6 +33,8 @@
 
 ## JavaScript
 
+- [A collection of awesome React libraries, resources and shiny things](https://github.com/enaqx/awesome-react)
+
 ## Assembly
 
 - [Learning assembly for linux-x64](https://github.com/0xAX/asm)
