@@ -31,6 +31,8 @@
 
 ## Go 
 
+- [A curated list of awesome Go frameworks, libraries and software](http://awesome-go.com/)
+
 ## JavaScript
 
 - [A collection of awesome React libraries, resources and shiny things](https://github.com/enaqx/awesome-react)
