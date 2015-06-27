@@ -60,12 +60,16 @@
 
 ## Linux System Administration
 
-## Miscellaneous
+## Markdown
 
-- [gcc五分钟系列](https://github.com/lexdene/gcc_five_minute)
+- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 - [Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown/)
 - [Daring Fireball: Markdown Web Dingus](http://daringfireball.net/projects/markdown/dingus)
 - [MarkDown标记语言说明文档——如何在github上写出优秀的readme](http://blog.sina.com.cn/s/blog_4a2100f801016v05.html)
+
+## Miscellaneous
+
+- [gcc五分钟系列](https://github.com/lexdene/gcc_five_minute)
 - [List of Free Programming Books](http://resrc.io/list/10/list-of-free-programming-books/)
 - [Frontend Development Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [GitHub Cheat Sheet-A list of cool features of Git and GitHub.](https://github.com/tiimgreen/github-cheat-sheet)
