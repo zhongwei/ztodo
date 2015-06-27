@@ -37,6 +37,8 @@
 - [Go指南](http://tour.studygolang.com/welcome)
 - [Go标准库中文版](http://studygolang.com/pkgdoc)
 - [Go语言语法详解笔记](http://yougg.github.io/static/gonote/gogrammar.html)
+- [Go by Example](https://gobyexample.com/)
+- [Go by Example 中文](http://gobyexample.everyx.in/)
 
 ## JavaScript
 
