@@ -33,6 +33,9 @@
 
 - [A curated list of awesome Go frameworks, libraries and software](http://awesome-go.com/)
 - [Go语言文档翻译文件](https://github.com/golang-china/golangdoc.translations)
+- [Go编程语言](http://docscn.studygolang.com/doc/)
+- [Go指南](http://tour.studygolang.com/welcome)
+- [Go标准库中文版](http://studygolang.com/pkgdoc)
 
 ## JavaScript
 
