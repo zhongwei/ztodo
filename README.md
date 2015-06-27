@@ -36,6 +36,7 @@
 - [Go编程语言](http://docscn.studygolang.com/doc/)
 - [Go指南](http://tour.studygolang.com/welcome)
 - [Go标准库中文版](http://studygolang.com/pkgdoc)
+- [Go语言语法详解笔记](http://yougg.github.io/static/gonote/gogrammar.html)
 
 ## JavaScript
 
