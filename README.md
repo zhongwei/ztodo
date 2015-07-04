@@ -39,6 +39,9 @@
 - [Go语言语法详解笔记](http://yougg.github.io/static/gonote/gogrammar.html)
 - [Go by Example](https://gobyexample.com/)
 - [Go by Example 中文](http://gobyexample.everyx.in/)
+- [Awesome Go](http://awesome-go.com/)
+- [Build a Web Application with Golang](https://github.com/astaxie/build-web-application-with-golang)
+- [go-datastructures](https://github.com/Workiva/go-datastructures)
 
 ## JavaScript
 
