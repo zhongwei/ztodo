@@ -28,6 +28,7 @@
 - [Rust by Example](https://github.com/rust-lang/rust-by-example)
 - [通过例子学习Rust](http://rust.cc/rust-by-example/)
 - [Pragmatic Bare Metal Rust](http://www.hashmismatch.net/2015/05/18/pragmatic-bare-metal-rust.html)
+- [rust-chat:Simple chat service written in Rust, from scratch](https://github.com/nbaksalyar/rust-chat)
 
 ## Go 
 
