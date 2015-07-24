@@ -47,7 +47,7 @@
 ## JavaScript
 
 - [A collection of awesome React libraries, resources and shiny things](https://github.com/enaqx/awesome-react)
-- [Isomorphic JavaScript: The Future of Web Apps](http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/)[中文](http://blog.jobbole.com/51786/)
+- [Isomorphic JavaScript: The Future of Web Apps](http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/)[(中文)](http://blog.jobbole.com/51786/)
 
 ## Assembly
 
