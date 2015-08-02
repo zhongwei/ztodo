@@ -30,6 +30,7 @@
 - [Pragmatic Bare Metal Rust](http://www.hashmismatch.net/2015/05/18/pragmatic-bare-metal-rust.html)
 - [rust-chat:Simple chat service written in Rust, from scratch](https://github.com/nbaksalyar/rust-chat)
 - [A curated list of awesome Rust code and resources](https://github.com/kud1ing/awesome-rust)
+- [The Advanced Rust Programming Language](https://doc.rust-lang.org/nightly/adv-book/)
 
 ## Go 
 
