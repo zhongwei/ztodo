@@ -23,6 +23,7 @@
 
 ## Rust 
 
+- [Rust开发技术学习路线](http://special.csdncms.csdn.net/rust/index.shtml)
 - [Rust Programming Language Book](https://doc.rust-lang.org/book/)
 - [Rust book 中文翻译](https://www.gitbook.com/book/kaisery/rust-book-chinese)
 - [Rust by Example](https://github.com/rust-lang/rust-by-example)
@@ -72,9 +73,9 @@
 
 ## Linux System Administration
 
--[浅析 Linux 初始化 init 系统，第 1 部分: sysvinit](http://www.ibm.com/developerworks/cn/linux/1407_liuming_init1/)
--[浅析 Linux 初始化 init 系统，第 2 部分: UpStart](http://www.ibm.com/developerworks/cn/linux/1407_liuming_init2/)
--[浅析 Linux 初始化 init 系统，第 3 部分: Systemd](http://www.ibm.com/developerworks/cn/linux/1407_liuming_init3/)
+- [浅析 Linux 初始化 init 系统，第 1 部分: sysvinit](http://www.ibm.com/developerworks/cn/linux/1407_liuming_init1/)
+- [浅析 Linux 初始化 init 系统，第 2 部分: UpStart](http://www.ibm.com/developerworks/cn/linux/1407_liuming_init2/)
+- [浅析 Linux 初始化 init 系统，第 3 部分: Systemd](http://www.ibm.com/developerworks/cn/linux/1407_liuming_init3/)
 
 ## Markdown
 
