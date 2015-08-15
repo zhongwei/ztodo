@@ -58,6 +58,7 @@
 ## Assembly
 
 - [Learning assembly for linux-x64](https://github.com/0xAX/asm)
+- [Understanding ARM Assembly](http://blogs.msdn.com/b/ntdebugging/archive/tags/arm/)
 
 ## Python
 
