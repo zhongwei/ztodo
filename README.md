@@ -15,7 +15,7 @@
 - [Linux Programming](#linux-programming)
 - [Linux System Administration](#linux-system-administration)
 - [MOOC](#mooc)
-- [Markdown](markdown)
+- [Markdown](#markdown)
 - [Miscellaneous](#miscellaneous)
 
 ## C 
@@ -84,7 +84,8 @@
 
 ## MOOC
 
--[数据结构基础](https://www.coursera.org/learn/shuju-jiegou-suanfa)
+- [数据结构基础](https://www.coursera.org/learn/shuju-jiegou-suanfa)
+- [高级数据结构与算法](https://www.coursera.org/learn/gaoji-shuju-jiegou)
 
 ## Markdown
 
