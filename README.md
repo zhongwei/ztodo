@@ -73,6 +73,10 @@
 
 ## Linux Programming
 
+- [亚嵌教育](http://akaedu.github.io/)
+- [Linux内核之旅](http://www.kerneltravel.net/)
+- [Linux Cross Reference](http://lxr.free-electrons.com/)
+- [Linux 常用C函数（中文版）](http://net.pku.edu.cn/~yhf/linux_c/)
 - [Linux Insides](https://github.com/0xAX/linux-insides)
 - [Beej's Guide to Unix IPC (2010)](http://beej.us/guide/bgipc/output/html/multipage/index.html)
 
