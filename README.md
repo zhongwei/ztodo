@@ -12,6 +12,7 @@
 - [Assembly](#assembly)
 - [Python](#python)
 - [Swift](#swift)
+- [Data Structures and Algorithm Analysis](#data-structures-and-algorithm-analysis)
 - [Linux Programming](#linux-programming)
 - [Linux System Administration](#linux-system-administration)
 - [MOOC](#mooc)
@@ -71,6 +72,10 @@
 - [中文版 Apple 官方 Swift 教程《The Swift Programming Language》](http://numbbbbb.github.io/the-swift-programming-language-in-chinese/)
 - [Swift 语言指南](https://github.com/ipader/SwiftGuide)
 
+## Data Structures and Algorithm Analysis
+
+- [Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne.](http://algs4.cs.princeton.edu/home/)
+- [数据结构-清华大学学堂在线](http://www.xuetangx.com/courses/TsinghuaX/30240184_2015X/2015_T1/info)
 
 ## Linux Programming
 
