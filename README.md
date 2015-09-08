@@ -23,7 +23,7 @@
 
 ## Mathematics
 
--[Immersive linear algebra](http://immersivemath.com/ila/index.html)
+- [Immersive linear algebra](http://immersivemath.com/ila/index.html)
 
 ## C 
 
