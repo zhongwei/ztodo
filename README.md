@@ -13,6 +13,7 @@
 - [Python](#python)
 - [Swift](#swift)
 - [Data Structures and Algorithm Analysis](#data-structures-and-algorithm-analysis)
+- [Operation System](#operation-system)
 - [Linux Programming](#linux-programming)
 - [Linux System Administration](#linux-system-administration)
 - [MOOC](#mooc)
@@ -76,6 +77,10 @@
 
 - [Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne.](http://algs4.cs.princeton.edu/home/)
 - [数据结构-清华大学学堂在线](http://www.xuetangx.com/courses/TsinghuaX/30240184_2015X/2015_T1/info)
+
+## Operation System
+
+- [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 ## Linux Programming
 
