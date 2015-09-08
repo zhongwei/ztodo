@@ -5,6 +5,7 @@
 
 ## TOC
 
+- [Mathematics](#mathematics)
 - [C](#c)
 - [Rust](#rust)
 - [Go](#go)
@@ -19,6 +20,10 @@
 - [MOOC](#mooc)
 - [Markdown](#markdown)
 - [Miscellaneous](#miscellaneous)
+
+## Mathematics
+
+-[Immersive linear algebra](http://immersivemath.com/ila/index.html)
 
 ## C 
 
