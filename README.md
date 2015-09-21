@@ -6,7 +6,7 @@
 ## TOC
 
 - [Mathematics](#mathematics)
-- [C](#c/c++)
+- [C/C++](#cc)
 - [Rust](#rust)
 - [Go](#go)
 - [JavaScript](#javaScript)
