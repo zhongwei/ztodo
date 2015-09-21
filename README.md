@@ -133,7 +133,7 @@
 - [Org-mode 简明手册](http://www.cnblogs.com/Open_Source/archive/2011/07/17/2108747.html)
 - [Learn](https://github.com/gyuho/learn)
 - [Awesome Emacs](https://github.com/emacs-tw/awesome-emacs)
-- [How to Learn Emacs: A Hand-drawn One-pager for Beginners / A visual tutorial](http://sachachua.com/blog/2013/05/how-to-learn-emacs-a-hand-drawn-one-pager-for-beginners/)
+- [A Visual Guide to Emacs](http://sachachua.com/blog/series/a-visual-guide-to-emacs/)
 
 
 ## License
