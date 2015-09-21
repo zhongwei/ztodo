@@ -6,7 +6,7 @@
 ## TOC
 
 - [Mathematics](#mathematics)
-- [C](#c)
+- [C](#c/c++)
 - [Rust](#rust)
 - [Go](#go)
 - [JavaScript](#javaScript)
@@ -26,8 +26,9 @@
 
 - [Immersive linear algebra](http://immersivemath.com/ila/index.html)
 
-## C 
+## C/C++
 
+- [The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++](https://github.com/isocpp/CppCoreGuidelines)
 - [Understanding C by learning assembly ](https://www.recurse.com/blog/7-understanding-c-by-learning-assembly)
 - ~~[Learning C with gdb](https://www.recurse.com/blog/5-learning-c-with-gdb)~~
 
