@@ -4,6 +4,7 @@
 
 (defun dotspacemacs/layers ()
   "Configuration Layers declaration."
+  (setq default-directory "C:/Keil/ARM/Pack/Keil/STM32F4xx_DFP/2.5.0/Drivers/STM32F4xx_HAL_Driver")
   (setq-default
    ;; List of additional paths where to look for configuration layers.
    ;; Paths must have a trailing slash (i.e. `~/.mycontribs/')
@@ -66,8 +67,7 @@ before layers configuration."
    ;; List of themes, the first of the list is loaded when spacemacs starts.
    ;; Press <SPC> T n to cycle to the next theme in the list (works great
    ;; with 2 themes variants, one dark and one light)
-   dotspacemacs-themes '(
-			 monokai
+   dotspacemacs-themes '(monokai
                          solarized-dark
                          solarized-light
                          spacemacs-light
@@ -163,8 +163,6 @@ before layers configuration."
 layers configuration."
  (global-hl-line-mode -1) ; Disable current line highlight
  (global-linum-mode) ; Show line numbers by default
- (add-to-list 'load-path "C:/Keil/ARM/Pack/Keil/STM32F4xx_DFP/2.5.0/Drivers/STM32F4xx_HAL_Driver");
- (require 'neotree);
  (global-set-key [f8] 'neotree-toggle);
 )
 
