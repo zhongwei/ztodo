@@ -108,6 +108,7 @@
 ## Cortex-M
 
 - [Keil projects and libraries for STM32F4xx devices](https://github.com/MaJerle/stm32f429)
+- [How I ended up writing new real-time kernel](http://dmitryfrank.com/articles/how_i_ended_up_writing_my_own_kernel)
 
 ## MOOC
 
