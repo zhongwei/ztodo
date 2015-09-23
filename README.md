@@ -45,6 +45,7 @@
 - [A curated list of awesome Rust code and resources](https://github.com/kud1ing/awesome-rust)
 - [The Advanced Rust Programming Language](https://doc.rust-lang.org/nightly/adv-book/)
 - [A Simple Web App in Rust](http://joelmccracken.github.io/entries/a-simple-web-app-in-rust-pt-1/)
+- [TodoMVC in Rust](http://tcr.github.io/rust-todomvc/)
 
 ## Go 
 
