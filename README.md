@@ -69,6 +69,9 @@
 - [React Starter Kit — a skeleton of an "isomorphic" web application / SPA...](https://github.com/kriasoft/react-starter-kit)
 - [腾讯移动Web前端知识库](https://github.com/AlloyTeam/Mars)
 - [React中文文档](http://reactjs.cn/)
+- [ECMAScript 6入门](http://es6.ruanyifeng.com/)
+- [JSCS — JavaScript Code Style](http://jscs.info/)
+- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 
 ## Assembly
 
