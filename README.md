@@ -73,6 +73,7 @@
 - [JSCS — JavaScript Code Style](http://jscs.info/)
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 - [React-Native指南汇集了react-native学习资源与各类开源app](https://github.com/ele828/react-native-guide)
+- [A cookbook for using webpack with React JS](https://github.com/christianalfoni/react-webpack-cookbook)
 
 ## Assembly
 
