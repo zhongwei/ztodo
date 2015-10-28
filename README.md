@@ -72,6 +72,7 @@
 - [ECMAScript 6入门](http://es6.ruanyifeng.com/)
 - [JSCS — JavaScript Code Style](http://jscs.info/)
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+- [React-Native指南汇集了react-native学习资源与各类开源app](https://github.com/ele828/react-native-guide)
 
 ## Assembly
 
