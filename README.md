@@ -9,7 +9,7 @@
 - [C/C++](#cc)
 - [Rust](#rust)
 - [Go](#go)
-- [JavaScript](#javaScript)
+- [JavaScript](#javascript)
 - [Assembly](#assembly)
 - [Python](#python)
 - [Swift](#swift)
