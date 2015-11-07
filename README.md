@@ -75,6 +75,7 @@
 - [React-Native指南汇集了react-native学习资源与各类开源app](https://github.com/ele828/react-native-guide)
 - [A cookbook for using webpack with React JS](https://github.com/christianalfoni/react-webpack-cookbook)
 - [SurviveJS - Webpack and React](http://survivejs.com/webpack_react/introduction/)
+- [React Static Boilerplate](https://github.com/koistya/react-static-boilerplate)
 
 ## Assembly
 
