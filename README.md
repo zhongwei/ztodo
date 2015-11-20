@@ -76,6 +76,7 @@
 - [A cookbook for using webpack with React JS](https://github.com/christianalfoni/react-webpack-cookbook)
 - [SurviveJS - Webpack and React](http://survivejs.com/webpack_react/introduction/)
 - [React Static Boilerplate](https://github.com/koistya/react-static-boilerplate)
+- [List of resources to learn ECMAScript 6!](https://github.com/ericdouglas/ES6-Learning)
 
 ## Assembly
 
