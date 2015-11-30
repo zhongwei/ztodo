@@ -77,6 +77,8 @@
 - [SurviveJS - Webpack and React](http://survivejs.com/webpack_react/introduction/)
 - [React Static Boilerplate](https://github.com/koistya/react-static-boilerplate)
 - [List of resources to learn ECMAScript 6!](https://github.com/ericdouglas/ES6-Learning)
+- [ES6 Overview in 350 Bullet Points](https://github.com/bevacqua/es6)
+- [The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.](https://github.com/FreeCodeCamp/FreeCodeCamp)
 
 ## Assembly
 
