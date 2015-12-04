@@ -79,6 +79,7 @@
 - [List of resources to learn ECMAScript 6!](https://github.com/ericdouglas/ES6-Learning)
 - [ES6 Overview in 350 Bullet Points](https://github.com/bevacqua/es6)
 - [The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.](https://github.com/FreeCodeCamp/FreeCodeCamp)
+- [React and ES6](http://egorsmirnov.me/2015/05/22/react-and-es6-part1.html)
 
 ## Assembly
 
