@@ -150,6 +150,7 @@
 - [Awesome Emacs](https://github.com/emacs-tw/awesome-emacs)
 - [A Visual Guide to Emacs](http://sachachua.com/blog/series/a-visual-guide-to-emacs/)
 - [免费的计算机编程类中文书籍](http://pan.baidu.com/disk/home)
+- [Everything you need to know about Vim.](https://github.com/mhinz/vim-galore)
 
 
 ## License
