@@ -17,6 +17,7 @@
 - [Operation System](#operation-system)
 - [Linux Programming](#linux-programming)
 - [Linux System Administration](#linux-system-administration)
+- [Big Data](#big-data)
 - [Cortex-M](#cortex-m)
 - [MOOC](#mooc)
 - [Markdown](#markdown)
@@ -119,6 +120,12 @@
 - [浅析 Linux 初始化 init 系统，第 1 部分: sysvinit](http://www.ibm.com/developerworks/cn/linux/1407_liuming_init1/)
 - [浅析 Linux 初始化 init 系统，第 2 部分: UpStart](http://www.ibm.com/developerworks/cn/linux/1407_liuming_init2/)
 - [浅析 Linux 初始化 init 系统，第 3 部分: Systemd](http://www.ibm.com/developerworks/cn/linux/1407_liuming_init3/)
+
+## Big Data
+
+-[大数据架构和模式](http://www.ibm.com/developerworks/cn/data/library/bd-archpatterns1/index.html)
+-[用 Hadoop 进行分布式数据处理](https://www.ibm.com/developerworks/cn/linux/l-hadoop-1/)
+-[Spark 入门](http://www.ibm.com/developerworks/cn/opensource/os-cn-spark-scala/index.html)
 
 ## Cortex-M
 
