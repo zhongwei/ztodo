@@ -81,6 +81,7 @@
 - [The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.](https://github.com/FreeCodeCamp/FreeCodeCamp)
 - [React and ES6](http://egorsmirnov.me/2015/05/22/react-and-es6-part1.html)
 - [Redux 中文文档](http://camsong.github.io/redux-in-chinese/)
+- [ES6 cheatsheet containing tips, tricks, best practices and code snippets](https://github.com/DrkSephy/es6-cheatsheet)
 
 ## Assembly
 
