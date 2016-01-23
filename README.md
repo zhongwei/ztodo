@@ -123,9 +123,9 @@
 
 ## Big Data
 
--[大数据架构和模式](http://www.ibm.com/developerworks/cn/data/library/bd-archpatterns1/index.html)
--[用 Hadoop 进行分布式数据处理](https://www.ibm.com/developerworks/cn/linux/l-hadoop-1/)
--[Spark 入门](http://www.ibm.com/developerworks/cn/opensource/os-cn-spark-scala/index.html)
+- [大数据架构和模式](http://www.ibm.com/developerworks/cn/data/library/bd-archpatterns1/index.html)
+- [用 Hadoop 进行分布式数据处理](https://www.ibm.com/developerworks/cn/linux/l-hadoop-1/)
+- [Spark 入门](http://www.ibm.com/developerworks/cn/opensource/os-cn-spark-scala/index.html)
 
 ## Cortex-M
 
