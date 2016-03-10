@@ -48,6 +48,7 @@
 - [A Simple Web App in Rust](http://joelmccracken.github.io/entries/a-simple-web-app-in-rust-pt-1/)
 - [TodoMVC in Rust](http://tcr.github.io/rust-todomvc/)
 - [Redox: A Rust Operating System](https://github.com/jackpot51/redox)
+- [rust 官方教程 中文版](https://www.gitbook.com/book/kaisery/rust-book-chinese/details)
 
 ## Go 
 
