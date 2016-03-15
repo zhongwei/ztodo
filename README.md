@@ -85,6 +85,7 @@
 - [Redux 中文文档](http://camsong.github.io/redux-in-chinese/)
 - [ES6 cheatsheet containing tips, tricks, best practices and code snippets](https://github.com/DrkSephy/es6-cheatsheet)
 - [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)[中文](https://blog.kazaff.me/2015/10/08/[译]全栈Redux实战)
+- [React+Redux系列教程](https://github.com/lewis617/react-redux-tutorial)
 
 ## Assembly
 
