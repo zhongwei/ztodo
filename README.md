@@ -49,7 +49,6 @@
 - [TodoMVC in Rust](http://tcr.github.io/rust-todomvc/)
 - [Redox: A Rust Operating System](https://github.com/jackpot51/redox)
 - [rust 官方教程 中文版](https://www.gitbook.com/book/kaisery/rust-book-chinese/details)
-- [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)[中文](https://blog.kazaff.me/2015/10/08/[译]全栈Redux实战)
 
 ## Go 
 
@@ -85,6 +84,7 @@
 - [React and ES6](http://egorsmirnov.me/2015/05/22/react-and-es6-part1.html)
 - [Redux 中文文档](http://camsong.github.io/redux-in-chinese/)
 - [ES6 cheatsheet containing tips, tricks, best practices and code snippets](https://github.com/DrkSephy/es6-cheatsheet)
+- [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)[中文](https://blog.kazaff.me/2015/10/08/[译]全栈Redux实战)
 
 ## Assembly
 
