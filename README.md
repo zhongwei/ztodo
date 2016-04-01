@@ -96,6 +96,7 @@
 - [Understanding ARM Assembly](http://blogs.msdn.com/b/ntdebugging/archive/tags/arm/)
 
 ## Python
+- [《Python进阶》（Intermediate Python 中文版）](https://github.com/eastlakeside/interpy-zh)
 
 ## Swift
 
