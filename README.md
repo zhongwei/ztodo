@@ -89,6 +89,7 @@
 - [最全的资源教程-前端涉及的所有知识体系](https://github.com/AutumnsWind/Front-end-tutorial)
 - [Immutable 详解及 React 中实践](https://segmentfault.com/a/1190000003910357)
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)[中文](https://github.com/vikingmute/javascript)
+- [A sample React Redux CRUD app](https://github.com/rajaraodv/react-redux-blog)
 
 ## Assembly
 
