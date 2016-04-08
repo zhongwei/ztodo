@@ -144,7 +144,7 @@
 ## MOOC
 
 - [程序设计与算法(北京大学)](https://www.coursera.org/specializations/biancheng-suanfa)
-
+- [Path to a free self-taught education in Computer Science! ](https://github.com/open-source-society/computer-science)
 
 ## Markdown
 
