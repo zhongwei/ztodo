@@ -95,6 +95,9 @@
 
 - [Learning assembly for linux-x64](https://github.com/0xAX/asm)
 - [Understanding ARM Assembly](http://blogs.msdn.com/b/ntdebugging/archive/tags/arm/)
+- [A fundamental introduction to x86 assembly programming](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming)
+- [x86 Assembly Guide](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
+- [Intel® 64 and IA-32 Architectures Software Developer Manuals](http://www.intel.com/content/www/us/en/processors/architectures-software-developer-manuals.html)
 
 ## Python
 - [《Python进阶》（Intermediate Python 中文版）](https://github.com/eastlakeside/interpy-zh)
