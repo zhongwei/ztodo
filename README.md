@@ -94,6 +94,7 @@
 ## Assembly
 
 - [Learning assembly for linux-x64](https://github.com/0xAX/asm)
+- [NASM Tutorial](http://cs.lmu.edu/~ray/notes/nasmtutorial/)
 - [Understanding ARM Assembly](http://blogs.msdn.com/b/ntdebugging/archive/tags/arm/)
 - [A fundamental introduction to x86 assembly programming](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming)
 - [x86 Assembly Guide](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
