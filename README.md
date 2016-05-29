@@ -90,6 +90,7 @@
 - [Immutable 详解及 React 中实践](https://segmentfault.com/a/1190000003910357)
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)[中文](https://github.com/vikingmute/javascript)
 - [A sample React Redux CRUD app](https://github.com/rajaraodv/react-redux-blog)
+- [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery)
 
 ## Assembly
 
