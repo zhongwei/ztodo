@@ -128,6 +128,7 @@
 - [Linux 常用C函数（中文版）](http://net.pku.edu.cn/~yhf/linux_c/)
 - [Linux Insides](https://github.com/0xAX/linux-insides)
 - [Beej's Guide to Unix IPC (2010)](http://beej.us/guide/bgipc/output/html/multipage/index.html)
+- [Google Shell Style Guide](https://google.github.io/styleguide/shell.xml)
 
 ## Linux System Administration
 
