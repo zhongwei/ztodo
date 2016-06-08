@@ -51,6 +51,7 @@
 - [rust 官方教程 中文版](https://www.gitbook.com/book/kaisery/rust-book-chinese/details)
 - [Why is a Rust executable large?](https://lifthrasiir.github.io/rustlog/why-is-a-rust-executable-large.html)
 - [LLVM tutorial in Rust language](https://github.com/jauhien/iron-kaleidoscope)
+- [Writing an OS in Rust](https://github.com/phil-opp/blog_os)
 
 ## Go 
 
