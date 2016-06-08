@@ -181,6 +181,7 @@
 - [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
 - [3000 Customizable Icons for React Native with support for NavBar/TabBar/ToolbarAndroid, image source and full stying.
 ](https://github.com/oblador/react-native-vector-icons)
+- [Contributor Covenant](http://contributor-covenant.org/)
 
 
 ## License
