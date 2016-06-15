@@ -55,6 +55,7 @@
 - [LLVM tutorial in Rust language](https://github.com/jauhien/iron-kaleidoscope)
 - [Writing an OS in Rust](https://github.com/phil-opp/blog_os)
 - [Small exercises to get you used to reading and writing Rust code](https://github.com/carols10cents/rustlings)
+- [An experimental (read: DONT USE) musl libc implementation in Rust.](https://github.com/dikaiosune/rusl)
 
 ## Go 
 
