@@ -32,6 +32,7 @@
 - [The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++](https://github.com/isocpp/CppCoreGuidelines)
 - [Understanding C by learning assembly ](https://www.recurse.com/blog/7-understanding-c-by-learning-assembly)
 - ~~[Learning C with gdb](https://www.recurse.com/blog/5-learning-c-with-gdb)~~
+- [Checked C is an extension of C that adds bounds checking to C.](https://github.com/Microsoft/checkedc)
 
 ## Rust 
 
