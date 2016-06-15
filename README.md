@@ -33,6 +33,7 @@
 - [Understanding C by learning assembly ](https://www.recurse.com/blog/7-understanding-c-by-learning-assembly)
 - ~~[Learning C with gdb](https://www.recurse.com/blog/5-learning-c-with-gdb)~~
 - [Checked C is an extension of C that adds bounds checking to C.](https://github.com/Microsoft/checkedc)
+- [See how musl compares to other major libcs.](http://www.etalabs.net/compare_libcs.html)
 
 ## Rust 
 
