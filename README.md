@@ -186,6 +186,7 @@
 - [3000 Customizable Icons for React Native with support for NavBar/TabBar/ToolbarAndroid, image source and full stying.
 ](https://github.com/oblador/react-native-vector-icons)
 - [Contributor Covenant](http://contributor-covenant.org/)
+- [Professional Software Development For Students](http://mixmastamyk.bitbucket.org/pro_soft_dev/)
 
 
 ## License
