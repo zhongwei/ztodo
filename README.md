@@ -17,6 +17,7 @@
 - [Operation System](#operation-system)
 - [Linux Programming](#linux-programming)
 - [Linux System Administration](#linux-system-administration)
+- [Design](#design)
 - [Big Data](#big-data)
 - [Cortex-M](#cortex-m)
 - [MOOC](#mooc)
@@ -143,6 +144,10 @@
 - [浅析 Linux 初始化 init 系统，第 1 部分: sysvinit](http://www.ibm.com/developerworks/cn/linux/1407_liuming_init1/)
 - [浅析 Linux 初始化 init 系统，第 2 部分: UpStart](http://www.ibm.com/developerworks/cn/linux/1407_liuming_init2/)
 - [浅析 Linux 初始化 init 系统，第 3 部分: Systemd](http://www.ibm.com/developerworks/cn/linux/1407_liuming_init3/)
+
+## Design
+
+- [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
 
 ## Big Data
 
