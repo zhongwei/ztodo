@@ -101,7 +101,7 @@
 - [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery)
 
 ## Assembly
-- [My assembly note](https://github.com/zhongwei/ztodo/assembly/index.md)
+- [My assembly note](https://github.com/zhongwei/ztodo/blob/master/assembly/index.md)
 - [Learning assembly for linux-x64](https://github.com/0xAX/asm)
 - [NASM Tutorial](http://cs.lmu.edu/~ray/notes/nasmtutorial/)
 - [Understanding ARM Assembly](http://blogs.msdn.com/b/ntdebugging/archive/tags/arm/)
