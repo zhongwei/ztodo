@@ -36,7 +36,7 @@
 - [Checked C is an extension of C that adds bounds checking to C.](https://github.com/Microsoft/checkedc)
 - [See how musl compares to other major libcs.](http://www.etalabs.net/compare_libcs.html)
 
-## Rust 
+## Rust
 
 - [Rust开发技术学习路线](http://special.csdncms.csdn.net/rust/index.shtml)
 - [Rust Programming Language Book](https://doc.rust-lang.org/book/)
@@ -58,7 +58,7 @@
 - [Small exercises to get you used to reading and writing Rust code](https://github.com/carols10cents/rustlings)
 - [An experimental (read: DONT USE) musl libc implementation in Rust.](https://github.com/dikaiosune/rusl)
 
-## Go 
+## Go
 
 - [A curated list of awesome Go frameworks, libraries and software](http://awesome-go.com/)
 - [Go语言文档翻译文件](https://github.com/golang-china/golangdoc.translations)
@@ -101,7 +101,7 @@
 - [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery)
 
 ## Assembly
-
+- [My assembly note](https://github.com/zhongwei/ztodo/assembly/index.md)
 - [Learning assembly for linux-x64](https://github.com/0xAX/asm)
 - [NASM Tutorial](http://cs.lmu.edu/~ray/notes/nasmtutorial/)
 - [Understanding ARM Assembly](http://blogs.msdn.com/b/ntdebugging/archive/tags/arm/)
