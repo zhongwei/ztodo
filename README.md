@@ -171,21 +171,20 @@
 - [Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown/)
 - [Daring Fireball: Markdown Web Dingus](http://daringfireball.net/projects/markdown/dingus)
 - [MarkDown标记语言说明文档——如何在github上写出优秀的readme](http://blog.sina.com.cn/s/blog_4a2100f801016v05.html)
+- [Pro Git 中文版](http://git-scm.com/book/zh/v2)
+- [gcc五分钟系列](https://github.com/lexdene/gcc_five_minute)
+- [A Visual Guide to Emacs](http://sachachua.com/blog/series/a-visual-guide-to-emacs/)
+- [Awesome Emacs](https://github.com/emacs-tw/awesome-emacs)
 
 ## Miscellaneous
 
-- [gcc五分钟系列](https://github.com/lexdene/gcc_five_minute)
 - [List of Free Programming Books](http://resrc.io/list/10/list-of-free-programming-books/)
 - [Frontend Development Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [GitHub Cheat Sheet-A list of cool features of Git and GitHub.](https://github.com/tiimgreen/github-cheat-sheet)
 - [A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev](https://github.com/ripienaar/free-for-dev)
-- [Pro Git 中文版](http://git-scm.com/book/zh/v2)
 - [http2讲解](https://www.gitbook.com/book/ye11ow/http2-explained/details)
 - [Org-mode 简明手册](http://www.cnblogs.com/Open_Source/archive/2011/07/17/2108747.html)
 - [Learn](https://github.com/gyuho/learn)
-- [Awesome Emacs](https://github.com/emacs-tw/awesome-emacs)
-- [A Visual Guide to Emacs](http://sachachua.com/blog/series/a-visual-guide-to-emacs/)
-- [免费的计算机编程类中文书籍](http://pan.baidu.com/disk/home)
 - [Everything you need to know about Vim.](https://github.com/mhinz/vim-galore)
 - [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
 - [3000 Customizable Icons for React Native with support for NavBar/TabBar/ToolbarAndroid, image source and full stying.
