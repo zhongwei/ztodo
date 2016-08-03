@@ -29,7 +29,7 @@
 
 ## C/C++
 
-- [My c note](https://github.com/zhongwei/ztodo/blob/master/c/index.md)
+- **[My c note](https://github.com/zhongwei/ztodo/blob/master/c/index.md)**
 - [The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++](https://github.com/isocpp/CppCoreGuidelines)
 - [Understanding C by learning assembly ](https://www.recurse.com/blog/7-understanding-c-by-learning-assembly)
 - ~~[Learning C with gdb](https://www.recurse.com/blog/5-learning-c-with-gdb)~~
@@ -38,7 +38,7 @@
 
 ## Rust
 
-- [My rust note](https://github.com/zhongwei/ztodo/blob/master/rust/index.md)
+- **[My rust note](https://github.com/zhongwei/ztodo/blob/master/rust/index.md)**
 - [Rust开发技术学习路线](http://special.csdncms.csdn.net/rust/index.shtml)
 - [Rust Programming Language Book](https://doc.rust-lang.org/book/)
 - [Rust book 中文翻译](https://www.gitbook.com/book/kaisery/rust-book-chinese)
@@ -61,7 +61,7 @@
 
 ## Go
 
-- [My go note](https://github.com/zhongwei/ztodo/blob/master/go/index.md)
+- **[My go note](https://github.com/zhongwei/ztodo/blob/master/go/index.md)**
 - [A curated list of awesome Go frameworks, libraries and software](http://awesome-go.com/)
 - [Go语言文档翻译文件](https://github.com/golang-china/golangdoc.translations)
 - [Go编程语言](http://docscn.studygolang.com/doc/)
@@ -76,7 +76,7 @@
 
 ## JavaScript
 
-- [My javascript note](https://github.com/zhongwei/ztodo/blob/master/js/index.md)
+- **[My javascript note](https://github.com/zhongwei/ztodo/blob/master/js/index.md)**
 - [A collection of awesome React libraries, resources and shiny things](https://github.com/enaqx/awesome-react)
 - [Isomorphic JavaScript: The Future of Web Apps](http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/)[(中文)](http://blog.jobbole.com/51786/)
 - [React Starter Kit — a skeleton of an "isomorphic" web application / SPA...](https://github.com/kriasoft/react-starter-kit)
@@ -104,7 +104,7 @@
 - [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery)
 
 ## Assembly
-- [My assembly note](https://github.com/zhongwei/ztodo/blob/master/as/index.md)
+- **[My assembly note](https://github.com/zhongwei/ztodo/blob/master/as/index.md)**
 - [Learning assembly for linux-x64](https://github.com/0xAX/asm)
 - [NASM Tutorial](http://cs.lmu.edu/~ray/notes/nasmtutorial/)
 - [Understanding ARM Assembly](http://blogs.msdn.com/b/ntdebugging/archive/tags/arm/)
@@ -133,7 +133,7 @@
 
 ## Linux Programming
 
-- [My linux programming note](https://github.com/zhongwei/ztodo/blob/master/lxp/index.md)
+- **[My linux programming note](https://github.com/zhongwei/ztodo/blob/master/lxp/index.md)**
 - [亚嵌教育](http://akaedu.github.io/)
 - [Linux内核之旅](http://www.kerneltravel.net/)
 - [Linux Cross Reference](http://lxr.free-electrons.com/)
@@ -144,7 +144,7 @@
 
 ## Linux System Administration
 
-- [My linux Administration note](https://github.com/zhongwei/ztodo/blob/master/lxa/index.md)
+- **[My linux administration note](https://github.com/zhongwei/ztodo/blob/master/lxa/index.md)**
 - [The Linux Command Line(中英双语)](http://billie66.github.io/TLCL/index.html)
 - [浅析 Linux 初始化 init 系统，第 1 部分: sysvinit](http://www.ibm.com/developerworks/cn/linux/1407_liuming_init1/)
 - [浅析 Linux 初始化 init 系统，第 2 部分: UpStart](http://www.ibm.com/developerworks/cn/linux/1407_liuming_init2/)
