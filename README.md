@@ -17,6 +17,7 @@
 - [Operation System](#operation-system)
 - [Linux Programming](#linux-programming)
 - [Linux System Administration](#linux-system-administration)
+- [Linux Kernel](#linux-kernel)
 - [Design](#design)
 - [Big Data](#big-data)
 - [Cortex-M](#cortex-m)
@@ -135,10 +136,9 @@
 
 - **[My linux programming note](https://github.com/zhongwei/ztodo/blob/master/lxp/index.md)**
 - [亚嵌教育](http://akaedu.github.io/)
-- [Linux内核之旅](http://www.kerneltravel.net/)
+- [Understanding glibc malloc](https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/)
 - [Linux Cross Reference](http://lxr.free-electrons.com/)
 - [Linux 常用C函数（中文版）](http://net.pku.edu.cn/~yhf/linux_c/)
-- [Linux Insides](https://github.com/0xAX/linux-insides)
 - [Beej's Guide to Unix IPC (2010)](http://beej.us/guide/bgipc/output/html/multipage/index.html)
 - [Google Shell Style Guide](https://google.github.io/styleguide/shell.xml)
 
@@ -149,6 +149,12 @@
 - [浅析 Linux 初始化 init 系统，第 1 部分: sysvinit](http://www.ibm.com/developerworks/cn/linux/1407_liuming_init1/)
 - [浅析 Linux 初始化 init 系统，第 2 部分: UpStart](http://www.ibm.com/developerworks/cn/linux/1407_liuming_init2/)
 - [浅析 Linux 初始化 init 系统，第 3 部分: Systemd](http://www.ibm.com/developerworks/cn/linux/1407_liuming_init3/)
+
+## Linux Kernel
+
+- **[My linux kernel note](https://github.com/zhongwei/ztodo/blob/master/lk/index.md)**
+- [Linux内核之旅](http://www.kerneltravel.net/)
+- [Linux Insides](https://github.com/0xAX/linux-insides)
 
 ## Design
 
