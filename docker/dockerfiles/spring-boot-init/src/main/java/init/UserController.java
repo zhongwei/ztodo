@@ -1,5 +1,6 @@
 package init;
 
+import init.jpa.User;
 import init.jpa.UserRepository;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -17,8 +18,8 @@ public class UserController {
     }
 
     @RequestMapping("/users")
-    public String users() {
-        userRepository.findAll();
+    public Iterable<User> users() {
+        return userRepository.findAll();
     }
 
 }
