@@ -1,3 +1,7 @@
+## Docker command line
+- `docker ps -a -q` (a: all, q: quiet)
+- `docker rm $(docker ps -a -q)`
+
 ## spring-boot-init
 - [spring-boot-init image](https://hub.docker.com/r/zhongwei/spring-boot-init/)
 - `docker run --name mysql -e MYSQL_ROOT_PASSWORD=root -e MYSQL_DATABASE=springboot -d mysql`
@@ -11,5 +15,3 @@
 
 ## create-react-app
 - [create-react-app image](https://hub.docker.com/r/zhongwei/create-react-app/)
-
-
